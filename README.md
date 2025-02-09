@@ -77,12 +77,7 @@ Upon starting the program, the default wizards are automatically loaded:
 - **Goku** - Magical Level: 85 - Favorite Spell: *Kamehamehame*
 - **Gandalf** - Magical Level: 90 - Favorite Spell: *You shall not pass!*
 
-The user can then choose to modify, add more wizards, or save the list.
 
-
-
-**Author:** *[Your Name]*  
-**Repository:** [Link to GitHub repository]
 
 May the magic of programming be with you! 🧙‍♂️🚀
 
