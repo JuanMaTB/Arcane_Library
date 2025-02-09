@@ -79,19 +79,7 @@ Upon starting the program, the default wizards are automatically loaded:
 
 The user can then choose to modify, add more wizards, or save the list.
 
-## Screenshots
 
-*Add screenshots of the program running in the terminal here.*
-
-## Contribution
-
-If you wish to contribute to this project, fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 **Author:** *[Your Name]*  
 **Repository:** [Link to GitHub repository]
